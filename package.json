@@ -1,0 +1,21 @@
+{
+  "name": "audio-player",
+  "version": "1.0.0",
+  "description": "An Audio Player to play your local Music files.",
+  "main": "script.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuprasad2004/Audio-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuprasad2004/Audio-player/issues"
+  },
+  "homepage": "https://github.com/vishnuprasad2004/Audio-player#readme"
+}
